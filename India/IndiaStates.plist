@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>totalResultsCount</key>
+	<integer>36</integer>
+	<key>geonames</key>
+	<array>
+		<dict>
+			<key>countryId</key>
+			<real>1269750</real>
+			<key>adminCode1</key>
+			<integer>2</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>79.75</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Andhra Pradesh</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>13</integer>
+			<key>name</key>
+			<string>Andhra Pradesh</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1278629</real>
+			<key>lat</key>
+			<real>15.83333</real>
+			<key>adminName1</key>
+			<string>Andhra Pradesh</string>
+			<key>population</key>
+			<integer>49386799</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>30</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>93.37</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Arunāchal Pradesh</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>16</integer>
+			<key>name</key>
+			<string>Arunachal Pradesh</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1278341</real>
+			<key>lat</key>
+			<real>27.06</real>
+			<key>adminName1</key>
+			<string>Arunachal Pradesh</string>
+			<key>population</key>
+			<integer>1383727</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>3</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<integer>93</integer>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Assam</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>27</integer>
+			<key>name</key>
+			<string>Assam</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1278253</real>
+			<key>lat</key>
+			<integer>26</integer>
+			<key>adminName1</key>
+			<string>Assam</string>
+			<key>population</key>
+			<integer>31205576</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>34</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>85.75</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Bihār</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>38</integer>
+			<key>name</key>
+			<string>Bihar</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1275715</real>
+			<key>lat</key>
+			<real>25.75</real>
+			<key>adminName1</key>
+			<string>Bihar</string>
+			<key>population</key>
+			<integer>104099452</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>5</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>76.77778000000001</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Union Territory of Chandīgarh</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Chandigarh</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1274744</real>
+			<key>lat</key>
+			<real>30.72778</real>
+			<key>adminName1</key>
+			<string>Chandigarh</string>
+			<key>population</key>
+			<integer>1055450</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>6</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>73.03333000000001</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Union Territory of Dādra and Nagar Haveli</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Dadra and Nagar Haveli</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1273726</real>
+			<key>lat</key>
+			<real>20.16667</real>
+			<key>adminName1</key>
+			<string>Dadra and Nagar Haveli</string>
+			<key>population</key>
+			<integer>343709</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>32</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>72.87</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Union Territory of Damān and Diu</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Daman and Diu</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1271155</real>
+			<key>lat</key>
+			<real>20.4</real>
+			<key>adminName1</key>
+			<string>Daman and Diu</string>
+			<key>population</key>
+			<integer>243247</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>33</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>74.08333</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Goa</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Goa</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1271157</real>
+			<key>lat</key>
+			<real>15.33333</real>
+			<key>adminName1</key>
+			<string>Goa</string>
+			<key>population</key>
+			<integer>1458545</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>9</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>71.75</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Gujarāt</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>26</integer>
+			<key>name</key>
+			<string>Gujarat</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1270770</real>
+			<key>lat</key>
+			<integer>23</integer>
+			<key>adminName1</key>
+			<string>Gujarat</string>
+			<key>population</key>
+			<integer>60439692</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>10</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>76.33333</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Haryāna</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>21</integer>
+			<key>name</key>
+			<string>Haryana</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1270260</real>
+			<key>lat</key>
+			<real>29.25</real>
+			<key>adminName1</key>
+			<string>Haryana</string>
+			<key>population</key>
+			<integer>25351462</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>12</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>76.66667</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Jammu and Kashmīr</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>22</integer>
+			<key>name</key>
+			<string>Jammu and Kashmir</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1269320</real>
+			<key>lat</key>
+			<real>33.91667</real>
+			<key>adminName1</key>
+			<string>Kashmir</string>
+			<key>population</key>
+			<integer>12541302</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>19</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>75.83333</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Karnātaka</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>30</integer>
+			<key>name</key>
+			<string>Karnataka</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1267701</real>
+			<key>lat</key>
+			<real>14.66667</real>
+			<key>adminName1</key>
+			<string>Karnataka</string>
+			<key>population</key>
+			<integer>61095297</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>13</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>76.5</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Kerala</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>14</integer>
+			<key>name</key>
+			<string>Kerala</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1267254</real>
+			<key>lat</key>
+			<real>10.41667</real>
+			<key>adminName1</key>
+			<string>Kerala</string>
+			<key>population</key>
+			<integer>33406061</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>14</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>72.28664999999999</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Union Territory of Lakshadweep</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Laccadives</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1265206</real>
+			<key>lat</key>
+			<real>10.93896</real>
+			<key>adminName1</key>
+			<string>Laccadives</string>
+			<key>population</key>
+			<integer>64473</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>35</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>78.5</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Madhya Pradesh</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>50</integer>
+			<key>name</key>
+			<string>Madhya Pradesh</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1264542</real>
+			<key>lat</key>
+			<real>23.5</real>
+			<key>adminName1</key>
+			<string>Madhya Pradesh</string>
+			<key>population</key>
+			<integer>72626809</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>16</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<integer>76</integer>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Mahārāshtra</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>35</integer>
+			<key>name</key>
+			<string>Maharashtra</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1264418</real>
+			<key>lat</key>
+			<real>19.5</real>
+			<key>adminName1</key>
+			<string>Maharashtra</string>
+			<key>population</key>
+			<integer>112374333</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>17</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<integer>94</integer>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Manipur</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>9</integer>
+			<key>name</key>
+			<string>Manipur</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1263706</real>
+			<key>lat</key>
+			<integer>25</integer>
+			<key>adminName1</key>
+			<string>Manipur</string>
+			<key>population</key>
+			<integer>2855794</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>18</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>91.33333</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Meghālaya</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>7</integer>
+			<key>name</key>
+			<string>Meghalaya</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1263207</real>
+			<key>lat</key>
+			<real>25.5</real>
+			<key>adminName1</key>
+			<string>Meghalaya</string>
+			<key>population</key>
+			<integer>2966889</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>31</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<integer>93</integer>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Mizoram</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>8</integer>
+			<key>name</key>
+			<string>Mizoram</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1262963</real>
+			<key>lat</key>
+			<integer>23</integer>
+			<key>adminName1</key>
+			<string>Mizoram</string>
+			<key>population</key>
+			<integer>1097206</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>7</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>77.09999999999999</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>National Capital Territory of Delhi</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>9</integer>
+			<key>name</key>
+			<string>NCT</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1273293</real>
+			<key>lat</key>
+			<real>28.6667</real>
+			<key>adminName1</key>
+			<string>NCT</string>
+			<key>population</key>
+			<integer>16787941</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>20</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>94.5</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Nāgāland</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>11</integer>
+			<key>name</key>
+			<string>Nagaland</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1262271</real>
+			<key>lat</key>
+			<real>26.08333</real>
+			<key>adminName1</key>
+			<string>Nagaland</string>
+			<key>population</key>
+			<integer>1978502</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>21</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>84.41667</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Odisha</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>30</integer>
+			<key>name</key>
+			<string>Odisha</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1261029</real>
+			<key>lat</key>
+			<real>20.5</real>
+			<key>adminName1</key>
+			<string>Odisha</string>
+			<key>population</key>
+			<integer>41974218</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>24</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>73.83333</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Rājasthān</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>33</integer>
+			<key>name</key>
+			<string>Rajasthan</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1258899</real>
+			<key>lat</key>
+			<real>26.58333</real>
+			<key>adminName1</key>
+			<string>Rajasthan</string>
+			<key>population</key>
+			<integer>68548437</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>29</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>88.5</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Sikkim</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Sikkim</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1256312</real>
+			<key>lat</key>
+			<real>27.75</real>
+			<key>adminName1</key>
+			<string>Sikkim</string>
+			<key>population</key>
+			<integer>610577</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>37</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<integer>82</integer>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Chhattīsgarh</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>18</integer>
+			<key>name</key>
+			<string>State of Chhattīsgarh</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1444364</real>
+			<key>lat</key>
+			<real>21.5</real>
+			<key>adminName1</key>
+			<string>Chhattisgarh</string>
+			<key>population</key>
+			<integer>25545198</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>11</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>77.25</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Himāchal Pradesh</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>12</integer>
+			<key>name</key>
+			<string>State of Himāchal Pradesh</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1270101</real>
+			<key>lat</key>
+			<real>31.91667</real>
+			<key>adminName1</key>
+			<string>Himachal Pradesh</string>
+			<key>population</key>
+			<integer>6864602</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>38</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>85.5</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Jharkhand</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>24</integer>
+			<key>name</key>
+			<string>State of Jharkhand</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1444365</real>
+			<key>lat</key>
+			<real>23.75</real>
+			<key>adminName1</key>
+			<string>Jharkhand</string>
+			<key>population</key>
+			<integer>32988134</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>23</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>75.41667</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Punjab</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>22</integer>
+			<key>name</key>
+			<string>State of Punjab</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1259223</real>
+			<key>lat</key>
+			<real>30.91667</real>
+			<key>adminName1</key>
+			<string>Punjab</string>
+			<key>population</key>
+			<integer>27743338</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>25</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>78.33333</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Tamil Nādu</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>32</integer>
+			<key>name</key>
+			<string>Tamil Nadu</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1255053</real>
+			<key>lat</key>
+			<integer>11</integer>
+			<key>adminName1</key>
+			<string>Tamil Nadu</string>
+			<key>population</key>
+			<integer>72147030</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>40</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>79.08333</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Telangana</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>10</integer>
+			<key>name</key>
+			<string>Telangana</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1254788</real>
+			<key>lat</key>
+			<real>17.83333</real>
+			<key>adminName1</key>
+			<string>Telangana</string>
+			<key>population</key>
+			<integer>35193978</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>26</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<integer>92</integer>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Tripura</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Tripura</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1254169</real>
+			<key>lat</key>
+			<integer>24</integer>
+			<key>adminName1</key>
+			<string>Tripura</string>
+			<key>population</key>
+			<integer>3673917</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>1</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>92.67516999999999</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Union Territory of Andaman and Nicobar Islands</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>3</integer>
+			<key>name</key>
+			<string>Union Territory of Andaman and Nicobar Islands</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1278647</real>
+			<key>lat</key>
+			<real>11.70065</real>
+			<key>adminName1</key>
+			<string>Andaman and Nicobar Islands</string>
+			<key>population</key>
+			<integer>380581</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>22</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>79.81667</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Union Territory of Puducherry</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Union Territory of Puducherry</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1259424</real>
+			<key>lat</key>
+			<real>11.93333</real>
+			<key>adminName1</key>
+			<string>Pondicherry</string>
+			<key>population</key>
+			<integer>1247953</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>36</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>80.75</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>Uttar Pradesh</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>71</integer>
+			<key>name</key>
+			<string>Uttar Pradesh</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1253626</real>
+			<key>lat</key>
+			<real>27.25</real>
+			<key>adminName1</key>
+			<string>Uttar Pradesh</string>
+			<key>population</key>
+			<integer>199812341</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>39</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<real>79.25</real>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>State of Uttarakhand</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>13</integer>
+			<key>name</key>
+			<string>Uttarakhand</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1444366</real>
+			<key>lat</key>
+			<real>30.25</real>
+			<key>adminName1</key>
+			<string>Uttarakhand</string>
+			<key>population</key>
+			<integer>10086292</integer>
+		</dict>
+		<dict>
+			<key>countryId</key>
+			<integer>1269750</integer>
+			<key>adminCode1</key>
+			<integer>28</integer>
+			<key>countryName</key>
+			<string>India</string>
+			<key>fclName</key>
+			<string>country, state, region,...</string>
+			<key>countryCode</key>
+			<string>IN</string>
+			<key>lng</key>
+			<integer>88</integer>
+			<key>fcodeName</key>
+			<string>first-order administrative division</string>
+			<key>toponymName</key>
+			<string>West Bengal</string>
+			<key>fcl</key>
+			<string>A</string>
+			<key>numberOfChildren</key>
+			<integer>19</integer>
+			<key>name</key>
+			<string>West Bengal</string>
+			<key>fcode</key>
+			<string>ADM1</string>
+			<key>geonameId</key>
+			<real>1252881</real>
+			<key>lat</key>
+			<integer>24</integer>
+			<key>adminName1</key>
+			<string>West Bengal</string>
+			<key>population</key>
+			<integer>91276115</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
